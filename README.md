@@ -1,4 +1,4 @@
-# hackathon-hyderabad-2026
+# IOT GAS AND SMOKE DETECTION ALARM SYSTEM
 IOT GAS AND SMOKE DETECTION ALARM SYSTEM
 An Arduino-based safety monitoring project built and simulated in Tinkercad to detect hazardous gas levels and trigger real-time visual and audible warnings.
 ## KEY FEATURES:
